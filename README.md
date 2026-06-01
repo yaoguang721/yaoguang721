@@ -16,4 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yaoguang721)
+
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=yaoguang721)
